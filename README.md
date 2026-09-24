@@ -214,5 +214,3 @@ This assignment forms part of my ongoing learning journey in **Data Analytics an
 I am using these foundational concepts to gradually build my technical skills and develop practical experience in working with data.
 
 
-https://www.linkedin.com/in/boitumelo-tsotetsi-554331248
-
